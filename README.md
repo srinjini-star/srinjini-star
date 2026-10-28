@@ -155,7 +155,7 @@ A monitoring prototype designed to help reviewers examine public development pro
 
 | Institution | Qualification | Result |
 |:--|:--|:--|
-| Heritage Institute of Technology, Kolkata | B.Tech CSE Core | Expected 2029 |
+| Heritage Institute of Technology, Kolkata | B.Tech CSE Core | Graduation 2029 |
 | Nava Nalanda, West Bengal | Higher Secondary — West Bengal Board | 82% |
 | Carmel High School, Kolkata | Secondary Education | 85% |
 
