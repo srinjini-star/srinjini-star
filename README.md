@@ -38,7 +38,6 @@ I'm still learning, and I enjoy turning that learning into projects. Each projec
 - 🛠️ Building personal and collaborative software projects.
 - 🤝 Participating in hackathons and technical activities.
 - 🎨 Enjoying drawing, painting, reading, travelling and sports.
-- 🥋 Black Belt in Karate.
 
 > Learning by building, improving through practice, and growing with every project.
 
